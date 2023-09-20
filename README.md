@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Brian Michael Adams
+- 🤠 My name is Brian Michael Adams
 - 🔭 I’m currently working on a Music Trivia application
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source applications meant to help and education people

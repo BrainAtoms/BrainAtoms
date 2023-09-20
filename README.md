@@ -9,6 +9,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm good at making coffee
 
-### Projects
-
-# ![Screen Shot 2023-09-02 at 9 07 52 PM](https://github.com/BrainAtoms/Coding_Quiz/assets/61917285/24cba32e-828d-4408-b87d-0561d12495d2)
